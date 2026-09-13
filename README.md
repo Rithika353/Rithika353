@@ -128,28 +128,6 @@ Encapsulation • Inheritance • Polymorphism • Abstraction • Constructors 
 * 📊 Improving **Power BI and Data Analytics**
 * 💻 Preparing for **technical interviews and software development roles**
 * 🚀 Learning how to build cleaner and more maintainable applications
-
----
-
-## 💡 How I Learn
-
-I don't want to learn technology just by memorizing syntax.
-
-My approach is:
-
-**Learn → Understand → Build → Debug → Improve**
----
-
-## 🌱 What I'm Improving
-
-* Writing cleaner and more maintainable Python code
-* Building better Django applications
-* Improving DSA problem-solving ability
-* Strengthening SQL and database knowledge
-* Developing better frontend interfaces
-* Creating more meaningful Power BI dashboards
-* Understanding real-world software development practices
-
 ---
 
 ## 🎯 Career Goal
@@ -187,18 +165,6 @@ I'm also interested in **Data Analytics and Business Intelligence** roles where 
 * **HackerRank** — SQL Basic
 * **Forage** — Virtual Experience
 * **Be10x** — Technical Workshop
-
----
-
-## ⚡ My Strengths
-
-* Strong willingness to learn
-* Practical, project-based learning
-* Python programming
-* Problem-solving mindset
-* Full-stack development fundamentals
-* Data analysis and visualization
-* Ability to connect development with data
 
 ---
 
