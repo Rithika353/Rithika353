@@ -206,8 +206,6 @@ I'm also interested in **Data Analytics and Business Intelligence** roles where 
 
 **GitHub:** [Rithika353](https://github.com/Rithika353)
 
-**LinkedIn:** *Add your LinkedIn URL*
-
 **Email:** *gorityalarithika@gmail.com*
 
 ---
